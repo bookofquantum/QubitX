@@ -1,5 +1,5 @@
 # **QubitX-256: A 256-Qubit Photonic Processor for Scalable Quantum Computing**  
-Dust LLC*  
+* Dust LLC*  
 
 ---
 
