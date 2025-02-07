@@ -78,7 +78,7 @@ With its **ten-layer photonic waveguide architecture** and **on-chip quantum err
 **Manufactured by:** Dust LLC  
 
 For inquiries, partnerships, and purchase information:  
-📧 **Email:** contact@dustllc.com  
-🌐 **Website:** www.dustllc.com  
+📧 **Email:** contact@dust.llc
+🌐 **Website:** www.dust.llc
 
 🚀 **Experience the Future of Quantum Computing with QubitX-256!** 🚀
