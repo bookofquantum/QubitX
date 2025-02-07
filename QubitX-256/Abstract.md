@@ -5,3 +5,5 @@ The **QubitX-256** is a cutting-edge **256-qubit photonic processor** designed f
 This processor utilizes a **ten-layer photonic waveguide architecture** with **fiber-optic I/O connectivity**, enabling seamless integration with existing quantum networks and hybrid classical-quantum systems. Its **low-loss optical pathways** and **high-efficiency single-photon sources** ensure reliable entanglement distribution, making it ideal for quantum cryptography, optimization, AI acceleration, and complex simulations.  
 
 With its **energy-efficient photonic circuits** and **on-chip error correction**, QubitX-256 marks a significant leap in **personal and enterprise-grade quantum computing**, paving the way for practical quantum advantage in real-world applications.
+
+![QubitX-256](https://raw.githubusercontent.com/bookofquantum/QubitX/refs/heads/main/QubitX-256/QubitX-256.webp "QubitX-256")
